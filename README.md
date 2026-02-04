@@ -1,1 +1,2 @@
-# Working on it , still Incomplete
+# Still refining the logic but tasks are completed!
+Solved by Hammal
